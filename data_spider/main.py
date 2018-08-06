@@ -1,0 +1,10 @@
+from scrapy.cmdline import execute
+# execute("scrapy crawl crunchyroll".split())
+# execute("scrapy crawl animenewsnetwork".split())
+# execute("scrapy crawl otakumode".split())
+# execute("scrapy crawl polygon".split())
+# execute("scrapy crawl theverge".split())
+# execute("scrapy crawl awn".split())
+# execute("scrapy crawl cartoonbrew".split())
+execute("scrapy crawl cartoonbrew".split())
+# execute("scrapy crawlall".split())
